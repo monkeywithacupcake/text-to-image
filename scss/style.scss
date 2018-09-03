@@ -1,0 +1,51 @@
+/* colors */
+$limygreen: #39FF14;
+$dark: #212121;
+html {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  background: $dark; 
+  font-family: "VT323", monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.big-label{
+  color: $limygreen;
+  text-align: center;
+  font-size: 2em;
+}
+
+.help {
+  margin-top: 5%;
+  color: $limygreen;
+}
+.the-words {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 100px;
+  border: 1px solid #fff;
+  input {
+    padding: 1em;
+    margin: 3em;
+  }
+  .btn {
+    background-color: $limygreen;
+  }
+}
+
+#myCanvas {
+  margin-top: 0%;
+  width: 600px;
+  height: 300px;
+  border: 1px solid #fff;
+}
