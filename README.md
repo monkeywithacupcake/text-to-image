@@ -7,7 +7,7 @@ You can find this one at https://codepen.io/jessachandler/pen/YOVLxV.
 Users can enter text in a text box and an image is created.
 
 The image is created with a dark background (`#212121`) and text in a gradient that goes from green to white.
-![example image](https://pbs.twimg.com/media/DmNR2zMU0AA8vsb.jpg:large) 
+![example image](/images/testimage.png) 
 
 ## Using
 vanilla js
