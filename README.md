@@ -5,6 +5,7 @@ You can find this one [on Codepen](https://codepen.io/jessachandler/pen/YOVLxV)
 Check out the whole collection of [Tiny Projects](https://codepen.io/collection/XoWbmB/)
 
 ... I added a color change feature in [Text to Image - Color Change Codepen](https://codepen.io/jessachandler/pen/bxRpMb)
+... I added support for multiple lines in [Text to Image - MultiLine Codepen](https://codepen.io/jessachandler/pen/jvwGOo)
 
 ## Functionality
 Users can enter text in a text box and an image is created.
